@@ -2,13 +2,17 @@
 ![](https://komarev.com/ghpvc/?username=renushinde)
 <!--
 **renushinde/renushinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header image](https://www.canva.com/design/DAEZQAMs0ns/WBa1dXPjYT3sUuHilvI-rw/edit)
+<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... JavaScript and Python
+- 🔭 I’m currently working on ... 100 days of code
 - 🌱 I’m currently learning ... Express and Node
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
+- 👯 I’m looking to collaborate on ... Full stack applications
+- 🤔 I’m looking for help with ... LeetCode problems
 - 💬 Ask me about ...
 - 📫 How to reach me: ... renunikhilp@gmail.com
 - 😄 Pronouns: ...
