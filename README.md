@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/renushinde/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="mailto:renunikhilp@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> 
 - 😄 Pronouns: ... she/her
 
--->
