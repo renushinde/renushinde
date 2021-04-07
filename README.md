@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ![](https://komarev.com/ghpvc/?username=renushinde)
 <!--
 **renushinde/renushinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... she/her
 
 # 100 days of code
-<a href=""><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-ff0027?style=for-the-badge&logo=day" height=30 width=79/>
+<a href="https://renushinde.github.io/Landing-Page-/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-ff0027?style=for-the-badge&logo=day" height=30 width=79/>
 <a href=""><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-f70063?style=for-the-badge&logo=day" height=30 width=79/> 
 <a href=""><img alt="Day 3" src="https://img.shields.io/badge/-Day 03-e20f79?style=for-the-badge&logo=day" height=30 width=79/> 
 <a href=""><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-c91f8c?style=for-the-badge&logo=day" height=30 width=79/>
