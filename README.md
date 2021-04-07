@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Full stack applications
 - 🤔 I’m looking for help with ... LeetCode problems
 - 💬 Ask me about ...
-- 📫 How to reach me: ... renunikhilp@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- 📫 How to reach me: ... <a href="https://www.linkedin.com/in/renushinde/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> 
+- 😄 Pronouns: ... she/her
+
 -->
