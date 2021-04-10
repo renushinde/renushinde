@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 <a href="https://renushinde.github.io/Horizon_Design/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-f70063?style=for-the-badge&logo=day" height=30 width=79/> 
 <a href="https://renushinde.github.io/Portfolioproject/"><img alt="Day 3" src="https://img.shields.io/badge/-Day 03-e20f79?style=for-the-badge&logo=day" height=30 width=79/> 
 <a href="https://focused-banach-dcd803.netlify.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-c91f8c?style=for-the-badge&logo=day" height=30 width=79/>
-<a href=""><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-a02bac?style=for-the-badge&logo=day" height=30 width=79/> 
 <a href=""><img alt="Day 5" src="https://img.shields.io/badge/-Day 05-8436c3?style=for-the-badge&logo=day" height=30 width=79/>
